@@ -1,0 +1,11 @@
+﻿int boxA, boxB, boxC, boxD, boxE, boxF;
+boxA = 20;
+boxB = 5;
+boxC = boxA + boxB;
+boxD = boxA - boxB;
+boxE = boxA * boxB;
+boxF = boxA / boxB;
+Console.WriteLine(boxC);
+Console.WriteLine(boxD);
+Console.WriteLine(boxE);
+Console.WriteLine(boxF);
