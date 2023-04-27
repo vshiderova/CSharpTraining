@@ -1,3 +1,2 @@
 # CSharpTraining
 
-neshto
